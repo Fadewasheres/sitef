@@ -23,13 +23,13 @@ const config = {
     Promise.resolve([
       {
         source: "/discord",
-        destination: "https://discord.gg/dtPGCsm",
+        destination: "https://discord.gg/yejNEdM3Hv",
         permanent: false,
       },
       {
         source: "/bot",
         destination:
-          "https://discord.com/oauth2/authorize?client_id=633565743103082527&permissions=805694528&scope=applications.commands+bot",
+          "https://discord.com/oauth2/authorize?client_id=1180996777197977720&permissions=805694528&scope=applications.commands+bot",
         permanent: false,
       },
     ]),
